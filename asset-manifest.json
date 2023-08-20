@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hakuonn/learn150min/static/css/main.fa1a4883.css",
+    "main.js": "/Hakuonn/learn150min/static/js/main.71a001a8.js",
+    "index.html": "/Hakuonn/learn150min/index.html",
+    "main.fa1a4883.css.map": "/Hakuonn/learn150min/static/css/main.fa1a4883.css.map",
+    "main.71a001a8.js.map": "/Hakuonn/learn150min/static/js/main.71a001a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa1a4883.css",
+    "static/js/main.71a001a8.js"
+  ]
+}
